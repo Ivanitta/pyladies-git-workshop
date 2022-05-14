@@ -1,1 +1,3 @@
-celkem nova zmena
+<<<<<<< HEAD
+celkem nova zmena - novy radek
+
